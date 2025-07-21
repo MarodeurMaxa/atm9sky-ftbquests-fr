@@ -37,7 +37,7 @@
 	"atm9.chapters.27.title": "Botania",
 	"atm9.chapters.28.title": "Forbidden and Arcanus",
 	"atm9.chapters.29.title": "Occultism",
-	"atm9.chapters.30.title": "&l&fL'Étoile",
+	"atm9.chapters.30.title": "&l&eL'Étoile",
 	"atm9.chapters.31.title": "ProjectE",
 	"atm9.chapters.32.title": "XyCraft",
 	"atm9.chapters.group.7.": "Logistiques",
@@ -56,29 +56,11 @@
 
 	
 	
-	"atm9.quest.welcome.team": "Créer une Équipe",
-	"atm9.quest.welcome.commands": "Commandes Utiles",
-	"atm9.quest.welcome.welcome": "&dBienvenue dans All The Mods 9!",
-	"atm9.quest.welcome.quests": "Quêtes",
-	"atm9.quest.welcome.claims": "Claims des chunks",
-	
-	"atm9.quest.welcome.desc.team": "Si vous souhaitez créer une équipe pour vous et vos amis, utilisez la commande &a/ftbteams party create (nom de l'équipe)&r pour créer l'équipe!",
-	"atm9.quest.welcome.desc.commands1": "Il y a beaucoup de commandes utiles dans ATM. Voici quelques-unes :",
-	"atm9.quest.welcome.desc.commands2": "&e/sethome&r (Nom de la maison) | Vous permet de définir un point de spawn auquel vous pouvez revenir en utilisant /home (nom). Exemple : /sethome ferme - puis téléportez-vous avec /home ferme",
-	"atm9.quest.welcome.desc.commands3": "&e/spawn&r | Cela vous téléportera au point d'apparition de votre monde principal.",
-	"atm9.quest.welcome.desc.commands4": "&e/rtp&r | 'Téléportation Aléatoire' vous téléportera à des coordonnées aléatoire dans le monde.", 
-	"atm9.quest.welcome.desc.commands5": "Remarque : Ces commandes ont des délais de récupération et des limites. Si vous souhaitez les modifier, vous pouvez éditer le fichier de configuration qui se trouve ici:",
-	"atm9.quest.welcome.desc.commands6": "- Pour le mode solo | &osaves/(Nom de la sauvegarde)/serverconfig/ftbessentials.snbt&r",
-	"atm9.quest.welcome.desc.commands7": "- Pour les serveurs | &oworld/serverconfig/ftbessentials.snbt&r",
-	"atm9.quest.welcome.desc.welcome1": "ATM9 est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!",
-	"atm9.quest.welcome.desc.welcome2": "&lATM9 est actuellement dans les phases bêta de développement du modpack&r. Des mods seront ajoutés ou supprimés au fur et à mesure de leur mise à jour.",
-	"atm9.quest.welcome.desc.welcome3": "Si vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!",
-	"atm9.quest.welcome.desc.quests1": "Dans ce modpack, les quêtes sont facultatives. Les mods ne sont pas bloqués derrière l'achèvement de quêtes!",
-	"atm9.quest.welcome.desc.quests2": "Les lignes de quêtes individuelles en dehors de la ligne principale des quêtes sont censées servir de guides pour les mods. Si vous souhaitez suivre la progression, assurez-vous de consulter la ligne principale des quêtes!",
-	"atm9.quest.welcome.desc.quests3": "La plupart des quêtes dans le pack sont également créées par &2AlfredGG&r. Les quêtes demandent beaucoup de travail, donc si vous souhaitez le soutenir, vous pouvez cliquer sur son image de joueur ci-dessous!",
-	"atm9.quest.welcome.desc.claims1": "Pour revendiquer des chunks, ouvrez votre carte en appuyant sur &6M&r, puis cliquez sur l'icône &aClaim Map&rdans le coin supérieur gauche.",
-	"atm9.quest.welcome.desc.claims2": "Pour revendiquer un chunk, cliquez gauche et faites glisser pour revendiquer.",
-	"atm9.quest.welcome.desc.claims3": "Pour charger de force un chunk, maintenez la touche Maj/Shift enfoncée et cliquez gauche sur le chunk. Si cela est fait correctement, vous verrez des lignes à travers le chunk.",
+	"atm9.quest.welcome.welcome": "Bienvenue dans All The Mods 9, maintenant dans le ciel!",
+	"atm9.quest.welcome.translations": "Toutes les Traductions",
+
+	"atm9.quest.welcome.desc.welcome": "Bienvenue dans ATM9... Mais dans les nuages!\\n\\n Pour suivre les quêtes, consultez les onglets à gauche pour vous lancer!\\n\\n Si vous êtes nouveau sur AllTheMods, assurez-vous de consulter le chapitre &Allthemodium&r!\\n\\n Si vous êtes nouveau sur les Skyblocks ou les MC moddés, consultez la &6Ligne principale des quêtes&r pour vous aider à démarrer.\\n\\n Remarque: Les mods ne sont pas limités par les quêtes et les quêtes sont bien sûr facultatives.",
+	"atm9.quest.welcome.desc.translations":"Nos quêtes ont été traduites par les traducteurs bénévoles suivants.\\n\\n&9Espagnol&r par &2radzratz&r, &2abel102389&r, &2arivio&r, et &2metabodiru&r.\\n&9Norvégien&r (Bokmål) par &2Permest&r\\n&9Portuguais&r par &2oruiva&r\\n&9Japonais&r par &2fishlife1 (flll)&r\\n&9Coréen&r par &2J-YonKen&r\\n&9Français&r par &2MarodeurMaxa",
 	
 	
 	"atm9.quest.allthemodium.intro": "Introduction à Allthemodium!",
